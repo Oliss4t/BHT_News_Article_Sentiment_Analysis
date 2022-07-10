@@ -1,0 +1,15 @@
+jupyter
+beautifulsoup4
+scikit-learn
+pandas
+numpy
+matplotlib
+lxml
+requests
+newspaper3k
+ipywidgets
+datawig
+plotly
+seaborn
+wordcloud
+requests
