@@ -13,3 +13,4 @@ plotly
 seaborn
 wordcloud
 requests
+kaleido
