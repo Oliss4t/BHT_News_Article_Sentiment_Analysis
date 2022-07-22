@@ -14,3 +14,4 @@ seaborn
 wordcloud
 requests
 kaleido
+germansentiment
